@@ -4,9 +4,9 @@ An app for creating and managing tasks.
 
 ## Requirements
 
-- NodeJS (18.x.x)
-- npm (9.x.x)
-- MySQL (8.0.35)
+- [NodeJS](https://nodejs.org/en/) (18.x.x)
+- [npm](https://www.npmjs.com/) (9.x.x)
+- [MySQL](https://www.mysql.com/) (8.0.35)
 
 ## How to run
 
@@ -32,16 +32,16 @@ npm run dev
 
 ### General
 
-- Typescript
+- [Typescript](https://www.typescriptlang.org/)
 
 ### Frontend
 
-- React
-- React query
-- Material UI
+- [React](https://react.dev/)
+- [React Query](https://tanstack.com/query/latest/)
+- [Material UI](https://mui.com/)
 
 ### Backend
 
-- Express
-- Express-validator
-- TypeORM
+- [Express](https://expressjs.com/)
+- [Express-validator](https://express-validator.github.io/docs)
+- [TypeORM](https://typeorm.io/)
